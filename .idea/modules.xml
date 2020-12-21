@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../App3_Personal_Website/.idea/App3_Personal_Website.iml" filepath="$PROJECT_DIR$/../App3_Personal_Website/.idea/App3_Personal_Website.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../App3_Personl_Website/.idea/App3_Personl_Website.iml" filepath="$PROJECT_DIR$/../App3_Personl_Website/.idea/App3_Personl_Website.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/App_2_webMap.iml" filepath="$PROJECT_DIR$/.idea/App_2_webMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../English_Theasurus/.idea/English_Theasurus.iml" filepath="$PROJECT_DIR$/../English_Theasurus/.idea/English_Theasurus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+    </modules>
+  </component>
+</project>
